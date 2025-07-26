@@ -4,7 +4,8 @@
 An end-to-end sales data analysis project using a Kaggle retail dataset. It involved cleaning and analyzing sales records to understand revenue trends, customer behavior, and product performance over time.
 
 🔧 Tools & Technologies Used:
-Excel: Initial cleaning, Pivot Tables, and exploratory analysis.
+
+#Excel: Initial cleaning, Pivot Tables, and exploratory analysis.
 
 #Python (Jupyter Notebook): Data cleaning and visualizations with Pandas and Matplotlib.
 
