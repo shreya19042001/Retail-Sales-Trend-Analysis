@@ -1,4 +1,6 @@
-###Project Overview:
+##Project Overview:
+
+
 An end-to-end sales data analysis project using a Kaggle retail dataset. It involved cleaning and analyzing sales records to understand revenue trends, customer behavior, and product performance over time.
 
 🔧 Tools & Technologies Used:
