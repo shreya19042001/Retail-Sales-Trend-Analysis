@@ -1,0 +1,12 @@
+CREATE TABLE sales_data (
+    ->   InvoiceNo VARCHAR(20),
+    ->   StockCode VARCHAR(20),
+    ->   Description TEXT,
+    ->   Quantity INT,
+    ->   InvoiceDate DATETIME,
+    ->   UnitPrice DECIMAL(10,2),
+    ->   CustomerID INT,
+    ->   Country VARCHAR(50),
+    ->   Revenue DECIMAL(10,2),
+    ->   Month CHAR(7)  -- Or use DATE if you prefer full YYYY-MM-DD
+    -> );
